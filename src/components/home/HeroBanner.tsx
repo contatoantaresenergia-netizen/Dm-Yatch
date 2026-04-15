@@ -52,8 +52,8 @@ export default function HeroBanner() {
         <div className="absolute inset-0 bg-gradient-to-r from-primary/95 via-primary/60 to-transparent"></div>
       </div>
 
-      {/* Content */}
-      <div className="container-custom relative z-10 h-full flex flex-col justify-center pb-20">
+      {/* Content - Ajustado justify e padding para subir o H1 */}
+      <div className="container-custom relative z-10 h-full flex flex-col justify-start pt-32 lg:pt-48">
         <div className="max-w-4xl">
           <motion.div
             initial={{ opacity: 0, y: 50 }}
