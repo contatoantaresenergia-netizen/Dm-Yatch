@@ -61,7 +61,7 @@ export default function HeroBanner() {
             transition={{ duration: 1, ease: "easeOut" }}
           >
             <h1 className="text-4xl lg:text-6xl font-bold mb-6 leading-[1.1] tracking-tight text-white drop-shadow-2xl">
-              Reparação e Manutenção Profissional de Embarcações de Recreio
+              Fornecedor de Equipamentos para Veleiros e Embarcaçōes
             </h1>
             <p className="text-lg lg:text-xl text-white/90 mb-10 max-w-2xl leading-relaxed font-medium drop-shadow-lg">
               Especialistas em reparações estruturais, rigging, antifouling e refit completo.
