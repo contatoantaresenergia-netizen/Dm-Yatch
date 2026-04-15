@@ -44,7 +44,7 @@ export default function HeroBanner() {
       {/* Background Image with Parallax */}
       <div ref={bgRef} className="absolute inset-0 z-0 scale-110">
         <img 
-          src="https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80" 
+          src="https://hnaezacbzcpmyfoupdec.supabase.co/storage/v1/object/public/ANTARES%20ENERGIA/CAPA%20SITE%20DM%201920X1200.webp" 
           alt="Luxury Yacht" 
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
