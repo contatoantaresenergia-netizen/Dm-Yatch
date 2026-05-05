@@ -62,7 +62,9 @@ export default function Footer() {
             <ul className="flex flex-col gap-6 text-slate-300 text-sm">
               <li className="flex items-start gap-3">
                 <MapPin className="text-accent shrink-0" size={20} />
-                <span>123 Marina Drive, Yacht Harbour, Ocean City, OC 45678</span>
+                <span>Estaleiros da Marina de Portimão
+                 8400-279 Loja 5 , Parchal
+                 Ferragudo, Portugal</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="text-accent shrink-0" size={20} />
