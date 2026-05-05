@@ -7,7 +7,7 @@ export default function TopBar() {
       <div className="container-custom flex justify-between items-center">
         <div className="flex items-center gap-2">
           <Phone size={14} className="text-accent" />
-          <a href="tel:+351210000000" className="hover:text-accent transition-colors font-bold">+351 210 000 000</a>
+          <a href="tel:+351210000000" className="hover:text-accent transition-colors font-bold">(+351) 913 282 888</a>
         </div>
         <div className="flex items-center gap-6">
           <a href="/about" className="hover:text-accent transition-colors">Sobre Nós</a>
