@@ -59,9 +59,9 @@ export default function Footer() {
               <li><Link to="/returns" className="hover:text-accent transition-colors">Devoluções e Reembolsos</Link></li>
               <li><Link to="/faq" className="hover:text-accent transition-colors">Perguntas Frequentes</Link></li>
 
-              {/* ✅ LINK CORRIGIDO */}
+              {/* ✅ LINK CORRETO */}
               <li>
-                <Link to="/politica-de-privacidade" className="hover:text-accent transition-colors">
+                <Link to="/privacy" className="hover:text-accent transition-colors">
                   Política de Privacidade
                 </Link>
               </li>
