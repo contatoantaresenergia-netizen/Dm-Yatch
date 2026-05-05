@@ -68,7 +68,8 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="text-accent shrink-0" size={20} />
-                <span>+123 456 7890</span>
+                <span>(+351) 915 730 843 Denys Moraes
+                (+351) 913 282 888 Carla Pereira</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="text-accent shrink-0" size={20} />
